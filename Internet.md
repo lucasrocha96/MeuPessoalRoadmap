@@ -6,8 +6,6 @@
  >4.	Inteligência artificial de 'Likes'
  >5.	Manipulação Consciente: Você sabe quanto manipuláveis seu dados estão são?
 
----
-
  >## Redes 
 > 1.	Redes: o Funcionamento de uma rede doméstica;
 > 2.  Hierarquia de rede. (Lan, Man, Wan);
@@ -20,27 +18,25 @@
 >		   - IPV6
 >		- Camada Física
 		
-		---
+
 		
    > ##  Protocolos: 
-     > Tipos de Protocolo
-	  - TCP/IP
-	  - HTTP e HTTPS
-	  - FTP e SFTP
-	  - SMTP ,  POP3 e IMAP 
-	  - SSH  
+     > - Tipos de Protocolo
+		  - TCP/IP
+		  - HTTP e HTTPS
+		  - FTP e SFTP
+		  - SMTP ,  POP3 e IMAP 
+		  - SSH  
+		  - E ETC
 		    
----
+
 
   >## Navegadores: O que são ? :
-  
-  1. Requerimento e requisições;
-  2. Devtools;
-  3.  O que são Métodos : 
+>  1. Requerimento e requisições;
+>  2. Devtools;
+>  3.  O que são Métodos : 
 		  -Get; 
 		  -Put; 
 		  -Delete; 
 		  -Patch 
-		  - (...);
-    
-    ---
+		  - E ETC;
