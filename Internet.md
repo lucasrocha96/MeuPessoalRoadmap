@@ -20,14 +20,14 @@
 		
 
 		
-   > ##  Protocolos: 
-     > - Tipos de Protocolo
-		  - TCP/IP
-		  - HTTP e HTTPS
-		  - FTP e SFTP
-		  - SMTP ,  POP3 e IMAP 
-		  - SSH  
-		  - E ETC
+> ##  Protocolos: 
+> - Tipos de Protocolo
+>	- TCP/IP
+>	- HTTP e HTTPS
+>	- FTP e SFTP
+>	- SMTP ,  POP3 e IMAP 
+>	- SSH  
+>	- E ETC
 		    
 
 
