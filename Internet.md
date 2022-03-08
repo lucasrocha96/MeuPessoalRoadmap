@@ -32,11 +32,12 @@
 
 
   >## Navegadores: O que são ? :
->  1. Requerimento e requisições;
->  2. Devtools;
->  3.  O que são Métodos : 
-		  -Get; 
-		  -Put; 
-		  -Delete; 
-		  -Patch 
-		  - E ETC;
+> 1. Requerimento e requisições;
+> 2. Devtools;
+> 3. Métodos
+> - O que são Métodos : 
+>	  - Get 
+>	  - Put
+>	  - Delete
+>	  - Patch
+>	  - E ETC
